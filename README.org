@@ -1,4 +1,4 @@
 * 2014 Phillies National Television Broadcast Schedule
 
-  This is a small IPython Notebook to print out a list of the Phillies 2014
+  [[http://nbviewer.ipython.org/github/krismolendyke/phillies/blob/master/Phillies.ipynb][This is a small IPython Notebook]] to print out a list of the Phillies 2014
   regular season games that are broadcast on national television.
